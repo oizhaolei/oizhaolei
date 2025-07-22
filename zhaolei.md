@@ -1,3 +1,8 @@
+<style>
+    h3 {
+        text-decoration: underline;
+    }
+</style>
 # 職務経歴書
 
 ## 基本情報
